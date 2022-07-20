@@ -2,17 +2,17 @@
 
 ## Overview of Project
 ### Purpose of Project
-In this project, I demonstrated my proficiency with various JavaScript and HTML features including: using console.log() to debug code, d3.select(), arrow functions, forEach() with JavaScript objects, filters with d3.select(), if-else statements, list-group-item class, label, and input tags to add filtered data to an index.html file, and script tags to an index.html file. 
+In this project, I demonstrated my proficiency with various Tableu features to create dynamic data visualizations using worksheets, dashboards, and stories to show the length of time that bikes are checked out for all riders and genders, the number of bike trips for all riders and genders for each hour of each day of the week, and the number of bike trips for each type of user and gender for each day of the week.
 
 ### Background of Project
-Dana, a journalist, has a JavaScript datafile about UFO sightings that she wants to organize and display. I built a table using data stored in a JavaScript array. Then, I created filters that it will react to user input, and placed the table into an HTML file for easy viewing. Users will be able to search the data by date, city, state, country, and shape of the UFO sightings. 
-
+After a trip to New York City, Kate and I decide we want to start a smiliar bike-share business in our hometown of Des Moines, IA. This Tableu report uses the August 2019 Citibike data to show a potential angel investor how the bike-share program works in New York City so we can understand how a similar program will work in Des Moines.  
 
 ---
 ## Results
+All visualizations and descriptions of the results for the NYC Citibike analysis can be found here. 
 
-There are at least seven visualizations for the NYC Citibike analysis (7 pt)
-There is a description of the results for each visualization (7 pt)
+[link to dashboard](https://public.tableau.com/shared/2D388S5TG?:display_count=n&:origin=viz_share_link)
+[link to dashboard](https://public.tableau.com/shared/2D388S5TG?:display_count=n&:origin=viz_share_link "link to dashboard")
 
 
 The “Filter Search” allows users to search for UFO sightings by date, city, state, country, or shape. The search can be done using any combination of filters. For example, a user could search by just the state of Oregon, just triangle shaped UFOs, or by a combination of the state of Oregon and triangle shaped UFOs.  
@@ -66,5 +66,3 @@ The placeholder, a short hint that describes the expected value, is a useful vis
 
 
 
-[link to dashboard](LINK GOES HERE)
-[link to dashboard](LINK GOES HERE "link to dashboard")
