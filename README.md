@@ -9,10 +9,8 @@ After a trip to New York City, Kate and I decide we want to start a smiliar bike
 
 ---
 ## Results
-All visualizations and descriptions of the results for the NYC Citibike analysis can be found here. 
+All visualizations and descriptions of the results for the NYC Citibike analysis can be found on this [link to dashboard](https://public.tableau.com/shared/2D388S5TG?:display_count=n&:origin=viz_share_link).
 
-[link to dashboard](https://public.tableau.com/shared/2D388S5TG?:display_count=n&:origin=viz_share_link)
-[link to dashboard](https://public.tableau.com/shared/2D388S5TG?:display_count=n&:origin=viz_share_link "link to dashboard")
 
 
 The “Filter Search” allows users to search for UFO sightings by date, city, state, country, or shape. The search can be done using any combination of filters. For example, a user could search by just the state of Oregon, just triangle shaped UFOs, or by a combination of the state of Oregon and triangle shaped UFOs.  
