@@ -43,9 +43,14 @@ This slide allows users to compare peak days of the week against gender, time, a
 
 ---
 ## Summary
-There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
+These visualizations of the New York City August 2019 create a picture of the typical rider as a male subscriber who primarily uses citibike to commute to work. One-time customers typically checkout citibikes on weekends between 10AM and 6PM. The majority of riders checkout bikes for 5-10 minutes and rarely checkout bikes longer than 40 minutes. 
 
-The placeholder, a short hint that describes the expected value, is a useful visual affect for the user. However, it can be unclear what the table is displaying when the placeholders for unused filters remain after the initial filter is applied. My recommendations below, outline how to make the table easier to interact with and read. 
+This dashboard is a snapshot of August. To understand how a similar program will work in Des Moines, I would want to expand the data to a full calendar year. Then two additional visualizations are suggested for future analysis: 
+* Bar chart to compare of the number of bikes checkout by month. 
+* Box-and-Whisker plots of the number of bikes checkout for each month. 
+
+
+
 
 
 
