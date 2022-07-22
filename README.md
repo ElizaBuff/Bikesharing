@@ -21,12 +21,12 @@ This slide allows users to compare how long riders checkout bikes by gender. The
 ![checkout_leng](images/checkout_leng.png)
 
 
-###Slide 2
+### Slide 2
 This slide allows users to compare how long riders checkout bikes by age. Although there is a spike in the year 1969, the data shows a slight increase in trip duration for younger riders born after 1989.  
 
 ![checkout_leng_age](images/checkout_leng_age.png)
 
-###Slide 3
+### Slide 3
 This slide allows users to identify peak checkout times by time of day and day of the week. The data suggests that citibikes are a popular choice for commuters:
 * Peak Hours 8am, 5pm, and 6pm
 * Monday-Friday, users typically checkout citibikes 7AM-7PM.
@@ -35,7 +35,7 @@ This slide allows users to identify peak checkout times by time of day and day o
 ![peak_times](images/peak_times.png)
 
 
-###Slide 4
+### Slide 4
 This slide allows users to compare peak days of the week against gender, time, and customer verses subscriber. The second visualization shows weekends are more popular for one-time customers while weekdays are more popular for subscribers. 
 
 ![heatmap_genders](images/heatmap_genders.png)
