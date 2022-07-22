@@ -9,7 +9,23 @@ After a trip to New York City, Kate and I decide we want to start a smiliar bike
 
 ---
 ## Results
-All visualizations and descriptions of the results for the NYC Citibike analysis can be found on this [link to dashboard](https://public.tableau.com/shared/2D388S5TG?:display_count=n&:origin=viz_share_link).
+Interact with all visualizations using this [link to dashboard](https://public.tableau.com/shared/2D388S5TG?:display_count=n&:origin=viz_share_link).
+### Slide 1
+![checkout_leng](images/checkout_leng.png)
+
+###Slide 2
+![checkout_leng_age](images/checkout_leng_age.png)
+
+###Slide 3
+![heatmap_genders](images/heatmap_genders.png)
+
+###Slide 4
+![peak_times](images/peak_times.png)
+
+Are citibikes a popular choice for commuters?
+Monday-Friday, users typically checkout citibikes 7AM-7PM.
+
+On Weekends, users typically checkout citibikes 10AM-6PM. 
 
 ---
 ## Summary
